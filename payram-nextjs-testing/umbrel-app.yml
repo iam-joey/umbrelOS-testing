@@ -1,6 +1,6 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: payram-nextjs-testing
+name: Payram Nextjs Testing
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
@@ -11,13 +11,12 @@ description: >-
 
 
   You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Payram
+website: https://payram.com
+submitter: Payram
+submission: https://github.com/iam-joey/umbrelOS-testing
+repo: https://github.com/iam-joey/umbrelOS-testing
+support: https://github.com/iam-joey/umbrelOS-testing/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
