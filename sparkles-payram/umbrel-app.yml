@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: Payram
+name: Payram
+tagline: PayRam empowers high-risk businesses to accept payments with no KYC, low fees, and no third-party risks.
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "0.0.1"
+port: 3200
+description: >-
+  PayRam is a self-hosted cryptocurrency payment processor that is secure, private, & resistant to censorship.
+
+  We're PAYRAM, redefining financial empowerment in the digital age. As trailblazers in the cryptocurrency world, we offer unmatched solutions for companies looking to take full control of their digital assets.
+
+  Cryptocurrency is set to revolutionise the future of finance. This time, don't rely on external services to integrate crypto into your business. Build and manage your own payment infrastructure and enhance your user wallet management system.
+developer: Payram
+website: https://payram.com
+submitter: Payram
+submission: https://github.com/iam-joey/umbrelOS-testing
+repo: https://github.com/iam-joey/umbrelOS-testing
+support: https://github.com/iam-joey/umbrelOS-testing/issues
+gallery:
+  - https://pub-dc28a97bf1d744bbb4f6b3f4a02e4459.r2.dev/payram.png
+  - https://pub-dc28a97bf1d744bbb4f6b3f4a02e4459.r2.dev/payram2.jpeg
+  - https://pub-dc28a97bf1d744bbb4f6b3f4a02e4459.r2.dev/payram3.jpg
+releaseNotes: >-
+  Initial release
