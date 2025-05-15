@@ -5,7 +5,7 @@ tagline: PayRam empowers high-risk businesses to accept payments with no KYC, lo
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "0.0.1"
-port: 3200
+port: 3700
 description: >-
   PayRam is a self-hosted cryptocurrency payment processor that is secure, private, & resistant to censorship.
 
