@@ -1,6 +1,6 @@
 manifestVersion: 1
-id: Payram
-name: Payram
+id: payram
+name: payram
 tagline: PayRam empowers high-risk businesses to accept payments with no KYC, low fees, and no third-party risks.
 icon: https://svgur.com/i/mvA.svg
 category: Development
@@ -12,9 +12,9 @@ description: >-
   We're PAYRAM, redefining financial empowerment in the digital age. As trailblazers in the cryptocurrency world, we offer unmatched solutions for companies looking to take full control of their digital assets.
 
   Cryptocurrency is set to revolutionise the future of finance. This time, don't rely on external services to integrate crypto into your business. Build and manage your own payment infrastructure and enhance your user wallet management system.
-developer: Payram
+developer: payram
 website: https://payram.com
-submitter: Payram
+submitter: payram
 submission: https://github.com/iam-joey/umbrelOS-testing
 repo: https://github.com/iam-joey/umbrelOS-testing
 support: https://github.com/iam-joey/umbrelOS-testing/issues

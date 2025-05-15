@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: sparkles-payram_web_1
+      APP_HOST: cryptopayments-payram_web_1
       APP_PORT: 80
 
   web:
