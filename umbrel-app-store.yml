@@ -1,2 +1,2 @@
-id: "cryptopayments" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "Payram" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+id: "payram" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "payram-server-testing" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
