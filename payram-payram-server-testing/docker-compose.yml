@@ -18,7 +18,7 @@ services:
       - "5432:5432"
     environment:
       AES_KEY: "bb5b5a930a7c58740afe0ba752b8d81ddee67f943c098b0d8904a8738e73cbd1"
-      BLOCKCHAIN_NETWORK_TYPE: "mainnet"
+      BLOCKCHAIN_NETWORK_TYPE: "testnet"
       SERVER: "PRODUCTION"
       POSTGRES_HOST: "localhost"
       POSTGRES_PORT: "5432"
