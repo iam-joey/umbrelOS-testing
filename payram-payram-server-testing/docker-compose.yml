@@ -7,7 +7,6 @@ services:
       APP_PORT: 80
   web:
     image: buddhasource/payram-core:release-arm64
-    container_name: payram
     init: true
     restart: on-failure
     ports:
